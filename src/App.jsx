@@ -1,6 +1,6 @@
 import Navbar from "./component/Navbar";
 import Hero from "./component/Hero";
-import Card from "./component/card";
+import Card from "./component/Card";
 
 import { services, projects } from "./data";
 import { motion } from "motion/react";
